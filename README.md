@@ -167,28 +167,20 @@
   <h2>📊 Telemetry & Contribution Analytics</h2>
   <p><i>Thống kê mã nguồn và tần suất hoạt động theo thời gian thực</i></p>
 
-  <!-- GitHub Stats & Top Languages (Ổn định tuyệt đối) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dangkhoa407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dangkhoa407&show_icons=true&theme=default&hide_border=true" />
-    <img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dangkhoa407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoa407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoa407&layout=compact&theme=default&hide_border=true" />
-    <img height="175" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoa407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </picture>
+  <!-- GitHub Stats & Top Languages (Sử dụng trực tiếp theme Tokyonight tối ưu tuyệt đối) -->
+  <p align="center">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=dangkhoa407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoa407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
   <!-- GitHub Streak Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dangkhoa407&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dangkhoa407&theme=default&hide_border=true" />
-    <img width="65%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=dangkhoa407&theme=tokyonight-duo&hide_border=true&background=0D1117" />
-  </picture>
+  <p align="center">
+    <img width="65%" src="https://streak-stats.demolab.com?user=dangkhoa407&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
   <!-- Commit History Widget (Của riêng bạn) -->
   <a href="https://commit-history.com/dangkhoa407">
