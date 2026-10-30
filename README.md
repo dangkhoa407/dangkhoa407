@@ -166,18 +166,6 @@
 <div align="center" id="-telemetry--analytics">
   <h2>📊 Telemetry & Contribution Analytics</h2>
   <p><i>Thống kê mã nguồn và tần suất hoạt động theo thời gian thực</i></p>
-
-  <!-- GitHub Stats & Top Languages (Sử dụng trực tiếp theme Tokyonight tối ưu tuyệt đối) -->
-<!-- GitHub Stats -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dangkhoa407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
-  </p>
-
-  <!-- Top Languages -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoa407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
-  </p>
-
   <br/>
 
   <!-- GitHub Streak Stats -->
