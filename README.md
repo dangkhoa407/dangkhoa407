@@ -162,13 +162,12 @@
 </table>
 
 <br/>
-
 <!-- ==================== TELEMETRY & ANALYTICS DASHBOARD ==================== -->
 <div align="center" id="-telemetry--analytics">
   <h2>📊 Telemetry & Contribution Analytics</h2>
   <p><i>Thống kê mã nguồn và tần suất hoạt động theo thời gian thực</i></p>
 
-  <!-- GitHub Stats & Top Languages (Auto Dark/Light Mode) -->
+  <!-- GitHub Stats & Top Languages (Ổn định tuyệt đối) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dangkhoa407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dangkhoa407&show_icons=true&theme=default&hide_border=true" />
@@ -191,25 +190,19 @@
 
   <br/><br/>
 
-  <!-- Commit History Widget gốc của bạn -->
+  <!-- Commit History Widget (Của riêng bạn) -->
   <a href="https://commit-history.com/dangkhoa407">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/dangkhoa407?theme=dark" />
       <img alt="dangkhoa407's commit history" src="https://commit-history.com/embed/dangkhoa407" />
     </picture>
   </a>
-
-  <br/><br/>
-
-  <!-- Activity Graph Toàn Cảnh -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dangkhoa407&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dangkhoa407&theme=minimal&area=true&hide_border=true" />
-    <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dangkhoa407&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" />
-  </picture>
 </div>
 
-<!-- ==================== FOOTER BANNER ==================== -->
+<br/>
+
+<!-- ==================== FOOTER ==================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0f172a&height=120&section=footer&text= Crafted%20with%20Code%20%26%20Hardware%20by%20dangkhoa407&fontSize=16&fontColor=ffffff&fontAlignY=65" alt="Footer Banner" />
+  <p><i>Crafted with 💻 & ⚡ by Nguyễn Thành Đăng Khoa (@dangkhoa407)</i></p>
+  <p><img src="https://img.shields.io/badge/STATUS-ONLINE-38bdf8?style=flat-square&logo=git&logoColor=white" alt="Status" /></p>
 </div>
